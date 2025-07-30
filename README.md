@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sydney!
 
-📊 Aspiring Data Analyst passionate about turning raw data into meaningful insights!
+📊 Data Analyst passionate about turning raw data into meaningful insights!
 
 🎓 Studied BSc in Mathematics & Statistics  
 🌍 Based in Nairobi, Kenya   
